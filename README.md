@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+<a href="[버튼을 눌렀을 때 이동할 링크](https://www.instagram.com/lee_juhui/)" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=flat-square&logo=instagram&logoColor=#E4405F"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhuigit&show_icons=true&theme=radical)
