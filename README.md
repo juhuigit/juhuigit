@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <div>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/C#-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp
 </div>
 
 <br>
