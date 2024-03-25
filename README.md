@@ -38,9 +38,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
 
+<br>
+
 <div>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C#-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp
 </div>
 
 <br>
